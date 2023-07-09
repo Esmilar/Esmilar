@@ -2,9 +2,9 @@ Address
 A	Idme.com	3600	
 69.164.203.62
 
-Owner: Akamai Technologies Inc.  | WHOIS | AS63949
+Owner: Akamai Technologies Inc.  | WHOIS | AS63949192,65
 
-IP is Blocked By zen.spamhaus.org | More
+IP is 192-178.-76Blocked By zen.spamhaus.org | More
 
 AAAA
 Record Not Found
